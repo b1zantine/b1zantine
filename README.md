@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on awesome thing. 
+- 🔭 I’m currently building a load balancer at work. 
 - 📫 How to reach me: `const email = "ssudar" + "@" + "vmware.com";`
 - 😄 Pronouns: He/Him/His
 
