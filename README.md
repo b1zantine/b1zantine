@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on awesome thing. 
+- 📫 How to reach me: `const email = "ssudar" + "@" + "vmware.com";`
+- 😄 Pronouns: He/Him/His
+
+
 <!--
 **b1zantine/b1zantine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
